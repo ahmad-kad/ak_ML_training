@@ -5,3 +5,5 @@ fastai/export.pkl
 PyTorch/data/
 fastai/us-patent-phrase-to-phrase-matching/
 fastai/outputs/
+fastai/titanic/
+fastai/titanic.zip
